@@ -1,0 +1,19 @@
+@import 'variables';
+
+html, body {
+  height: 100%;
+}
+
+body, ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+h2 {
+  margin: 30px 5px;
+  border-bottom: solid 5px gold;
+}
